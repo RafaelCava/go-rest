@@ -91,7 +91,7 @@ $ yarn start
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-Feito com :heart: por <a href="https://github.com/RafaelCava" target="_blank">{{YOUR_NAME}}</a>
+Feito com :heart: por <a href="https://github.com/RafaelCava" target="_blank">Rafael Cavalcante</a>
 
 &#xa0;
 
